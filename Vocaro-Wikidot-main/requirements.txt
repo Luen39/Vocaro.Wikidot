@@ -1,0 +1,4 @@
+BeautifulSoup4
+selenium
+lxml
+discord.py
